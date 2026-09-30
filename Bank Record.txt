@@ -1,0 +1,3 @@
+1001|Virat Kohli|5000.00
+1002|Rohit Sharma|7500.00
+1003|Shubhman Gill|9500.00
